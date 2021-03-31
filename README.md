@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align=center>
+  HoloPanio<br>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Email&message=jackson@holopanio.com&color=tomato">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=Discord&message=HoloPanio%230001&color=7289DA">
+</h1>
+
+
 
 <!--
 **HoloPanio/HoloPanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
