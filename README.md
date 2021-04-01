@@ -1,8 +1,8 @@
 
 <h1 align=center>HoloPanio</h1>
 <p align=center>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Email&message=jackson@holopanio.com&color=tomato">
-  <a href="https://google.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=Discord&message=HoloPanio%230001&color=7289DA"></a>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Email&message=jackson@holopanio.com&color=tomato"></img>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=Discord&message=HoloPanio%230001&color=7289DA"></img>
 </p>
 
 
