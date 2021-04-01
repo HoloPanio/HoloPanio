@@ -1,9 +1,9 @@
 
 <h1 align=center>HoloPanio</h1>
 <p align=center>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Email&message=jackson@holopanio.com&color=tomato"></img>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Email&message=jackson@holopanio.com&color=red"></img>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=Discord&message=HoloPanio%230001&color=7289DA"></img>
-  <a href="https://ko-fi.com/holopanio"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ko-fi&label=Ko-fi&message=Support%20Me%230001&color=29ABE0"></img></a>
+  <a href="https://ko-fi.com/holopanio"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ko-fi&label=Ko-fi&message=Support%20Me%230001&color=FF5E5B"></img></a>
 
 </p>
 
