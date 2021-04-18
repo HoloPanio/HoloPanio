@@ -7,4 +7,3 @@ I will create a custom donation page.  I would do this to allow as many payment 
 
 ## DogeHouse Integration
 I will have a twitch layout opject that would interface with the dogehouse api directly allowing me to put the dogehouse room on my stream when I am streaming.
- 
